@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2",
+    "key": "123",
+    "type": "EMPLEADO",
+    "name": "PRUEBA",
+    "username": "abcd",
+    "firstname": "CREATE",
+    "lastname": "UNO",
+    "password": "12345678",
+    "status": "INACTIVO"
+  },
+  {
+    "id": "3",
+    "key": "456",
+    "type": "EMPLEADO",
+    "name": "USUARIO",
+    "username": "admin",
+    "firstname": "PRUEBA",
+    "lastname": "TECNICA",
+    "password": "admin",
+    "status": "INACTIVO"
+  },
+  {
+    "id": 1,
+    "key": "OSHH",
+    "type": "DEVELOPER",
+    "name": "OSCAR",
+    "username": "oscxr",
+    "firstname": "SANTOS",
+    "lastname": "HERNANDEZ",
+    "password": "0809",
+    "startDate": "2024-07-05 01:34:42",
+    "endDate": "2024-07-05 01:22:20",
+    "status": "ACTIVO"
+  }
+]

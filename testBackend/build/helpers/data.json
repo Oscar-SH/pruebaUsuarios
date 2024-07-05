@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "key": "OSHH",
+        "type": "DEVELOPER",
+        "name": "OSCAR",
+        "username": "oscxr",
+        "firstname": "SANTOS",
+        "lastname": "HERNANDEZ",
+        "password": "0809",
+        "startDate": "",
+        "endDate": "",
+        "time": "",
+        "status": "INACTIVO"
+    },
+    {
+        "id": "2",
+        "key": "123",
+        "type": "EMPLEADO",
+        "name": "PRUEBA",
+        "username": "abcd",
+        "firstname": "CREATE",
+        "lastname": "UNO",
+        "password": "12345678"
+    },
+    {
+        "id": "3",
+        "key": "456",
+        "type": "EMPLEADO",
+        "name": "PRUEBA",
+        "username": "efgh",
+        "firstname": "DOS",
+        "lastname": "UPDATE",
+        "password": "create"
+    }
+]

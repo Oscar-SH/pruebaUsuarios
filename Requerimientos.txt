@@ -1,0 +1,24 @@
+Requerimientos:
+* Node versión 20.15.0
+* Instalar typescript globalmente (npm install -g typescript)
+
+El proyecto consiste en un directorio seguido por las dos carpetas que alojan los servicios.
+
+*** Levantar Frontend
+* Entrar a la carpeta llamada testfrontend
+* Copiar o renombrar el archivo .env.example de tal manera que el archivo tenga por nombre .env
+* Llenar los datos solicitados en dichos archivos
+* Ejecutar en terminal o CMD el comando "npm install"
+Para levantar el servicio se deberá ejecutar el comando "npm start".
+En la parte del login se recomienda hacer uso de las siguientes credenciales:
+* usuario: oscxr
+* contraseña: 0809
+
+
+*** Levantar Backend
+* Entrar a la carpeta llamada testBackend
+* Copiar o renombrar el archivo .env.example de tal manera que el archivo tenga por nombre .env
+* Llenar los datos solicitados en dichos archivos
+* Ejecutar en terminal o CMD el comando "npm install"
+* Ejecutar en terminal o CMD el comando "tsc -w"
+Para levantar el servicio se deberá ejecutar el comando "npm run dev"
